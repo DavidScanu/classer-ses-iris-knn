@@ -3,8 +3,9 @@
 David Scanu 
 
 * v1 - Brief initial
-* v2 - Ajout de cross-validation, validation curve, leaning curve
-* v3 - Ajoute de Features Selections
+* v2 - Ajout de Cross-validation, Validation curve, Leaning curve
+* v3 - Ajout de Feature Selection
+* v4 - Exporte modèle avec pickle
 
 ---
 
