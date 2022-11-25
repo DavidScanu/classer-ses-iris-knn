@@ -4,6 +4,7 @@ David Scanu
 
 * v1 - Brief initial
 * v2 - Ajout de cross-validation, validation curve, leaning curve
+* v3 - Ajoute de Features Selections
 
 ---
 
